@@ -7,6 +7,8 @@
 + Entity Framework Core
 + .NET Identity Framework
 + MVC
++ HTML
++ Bootstrap
 ______
 MovieTicket is a web application that allows users to browse and order movie tickets. The application offers a user-friendly interface for easy movie browsing, and ticket booking.
 Administrators have access to CRUD (Create, Read, Update, Delete) operations for managing movies, actors, directors, and cinemas.
