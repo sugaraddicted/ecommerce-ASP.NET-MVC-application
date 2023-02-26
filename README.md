@@ -18,9 +18,9 @@ Administrators have access to CRUD (Create, Read, Update, Delete) operations for
 
 + Movie browsing
 
-<a href="https://ibb.co/PFx1yRx"><img src="https://i.ibb.co/ZGdcr3d/1420.png" alt="1420" border="0"></a>
+<a href="https://ibb.co/mSMCVzc"><img src="https://i.ibb.co/0QdjRJG/image.png" alt="image" border="0"></a>
 
-<a href="https://ibb.co/QD6DmCR"><img src="https://i.ibb.co/vXJXzQG/1422.png" alt="1422" border="0"></a>
+<a href="https://ibb.co/fGyNH6D"><img src="https://i.ibb.co/bRCvXwb/image.png" alt="image" border="0"></a>
 
 
 + Ticket booking
